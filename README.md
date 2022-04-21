@@ -1,2 +1,2 @@
 # Hello
-приветствие
+print("Hello world")
